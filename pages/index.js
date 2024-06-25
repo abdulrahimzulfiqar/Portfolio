@@ -28,9 +28,8 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore sunt
-            sapiente totam beatae odit nihil maiores impedit, veniam alias
-            pariatur.
+           Explore the digital portfolio showcasing cutting-edge web design and development. Discover innovative projects, creative solutions, and a passion for coding that brings ideas to life.
+
           </motion.p>
           <div className=" flex justify-center xl:hidden relative">
             <ProjectBtn />
